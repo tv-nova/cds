@@ -1,19 +1,12 @@
 # Meeting notes for {{ cookiecutter.repo_name }}
 
-## Kick-off <date>
+## DATE: <date>
 ### panel
 
 ### agenda
 
 ### next steps
 
----
-## <date>
-### panel
-
-### agenda
-
-### next steps
 
 
 

@@ -7,7 +7,7 @@
 
 ### next steps
 
-(`---`)
+---
 ## <date>
 ### panel
 
